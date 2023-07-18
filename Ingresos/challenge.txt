@@ -1,0 +1,126 @@
+"Desafío Code Challenge"
+
+
+Estimada Alana, espero te encuentres bien.
+
+
+Como parte del proceso de postulación DENTIDESK,te invitamos a desarrollar una prueba Técnica,
+
+la que debe ser entregada el día Martes 18 de Julio hasta las 23:59 hrs.
+
+
+Para comenzar, te queremos invitar al "Code Challenge" en donde tendrás que crear un pequeño proyecto.
+
+ 
+
+No es necesario implementar todas las funciones ni todos los aspectos de este challenge.
+
+Por esto, te invitamos a implementar solo lo que te sientas cómodo haciendo.
+
+ 
+
+De todas formas, si deseas hacer todo sumas puntos.
+
+Además, puedes investigar e intentar hacerlas si no sabes cómo.
+
+ 
+
+Puntos a evaluar:
+
+- simplicidad del código (muy importante)
+
+- claridad al elegir nombres de variables
+
+- uso de patrones de diseño (facade, singleton, controller, model etc...)
+
+- manejo de php
+
+- manejo de React/Blade templates
+
+- uso de git
+
+- comprensión de los requerimientos
+
+- tiempo de entrega
+
+ 
+
+Mantenedor de finanzas
+
+ 
+
+En este mini proyecto, se requiere implementar un administrador de ingresos y egresos (simple)
+
+y mostrar el total de ganancias para el mes.
+
+ 
+
+Por favor mantener esta aplicación lo más simple posible.
+
+La Simplicidad del código y la solución será evaluada.
+
+ 
+
+Tecnologías a usar:
+
+- php, puede ser puro o con Laravel 
+
+- base de datos (a elección)
+
+- frontend (bootstrap, laravel blade templates o react.js) 
+
+ 
+
+Tiempo de entrega: Lunes  30 de Octubre hasta las 23:59 hrs.
+
+ 
+
+Backend:
+
+- Proponer e implementar un modo de almacenamiento de la información (base de datos)
+
+- Crear REST endpoints para ingreso de transacciones (ingresos y egresos) y cálculos por mes
+
+- Guardar la información en la base de datos (CRUD)
+
+ 
+
+Frontend:
+
+- Crear interfaz simple para ingreso de transacciones
+
+- usar css/sass u algún ui framework.
+
+- Mostrar total ganado en el mes
+
+- crear formulario para ingreso de transacciones
+
+- crear menú para navegar en la aplicación 
+
+ 
+
+Devops:
+
+- instalar la aplicación como docker container
+
+- Correr la aplicación bajo docker-compose o swarm o k8s
+
+ 
+
+Si tienes alguna duda puedes escribirnos a carolina@dentidesk.com
+
+ 
+
+ 
+
+Por favor confirma la recepción de este correo.
+
+El desafío lo debes enviar a todos en este mismo hilo de correo.
+
+ 
+
+Quedamos atentos.
+
+ 
+
+Saludos Cordiales
